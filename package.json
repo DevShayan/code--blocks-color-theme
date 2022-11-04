@@ -10,6 +10,10 @@
   "author": {
     "name": "Shayan Ahmed Khan"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevShayan/code--blocks-color-theme.git"
+  },
   "license": "MIT",
   "homepage": "",
   "keywords": [
