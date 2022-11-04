@@ -1,0 +1,35 @@
+{
+  "name": "code--blocks-color-theme",
+  "displayName": "Code::Blocks color theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "publisher": "ShayanAhmedKhan",
+  "author": {
+    "name": "Shayan Ahmed Khan"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "keywords": [
+    "code::blocks",
+    "codeblocks",
+    "code blocks",
+    "codeblocks theme",
+    "code blocks theme"
+  ],
+  "icon": "",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Code::Blocks",
+        "uiTheme": "vs",
+        "path": "./themes/CodeBlocks-color-theme.json"
+      }
+    ]
+  }
+}
