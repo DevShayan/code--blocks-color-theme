@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "code--blocks-color-theme" extension will be documented in this file.
+## [0.0.2 - 06-11-2022]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+#### Added
 
-## [Unreleased]
-
-- Initial release
+- Preview image

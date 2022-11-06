@@ -1,7 +1,7 @@
 {
   "name": "code--blocks-color-theme",
   "displayName": "Code::Blocks color theme",
-  "description": "",
+  "description": "Default theme used in Code::Blocks IDE",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.0.0"
@@ -15,7 +15,6 @@
     "url": "https://github.com/DevShayan/code--blocks-color-theme.git"
   },
   "license": "MIT",
-  "homepage": "",
   "keywords": [
     "code::blocks",
     "codeblocks",

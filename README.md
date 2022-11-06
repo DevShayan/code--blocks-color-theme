@@ -1,4 +1,4 @@
-# Code::Blocks color theme README
+# Code::Blocks color theme
 
 Default Code::Blocks color theme for VS Code.
 
@@ -6,7 +6,7 @@ Default Code::Blocks color theme for VS Code.
 
 ### To apply theme:
 
-* Ctrl+Shift+P -> Preferences: Color Theme -> Code::Blocks
+* Ctrl+Shift+P -> Preferences: Color Theme -> Code::Blocks default
 
 ## Preview
 
